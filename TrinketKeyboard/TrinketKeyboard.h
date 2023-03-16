@@ -182,5 +182,6 @@ extern Trinket_Keyboard TrinketKeyboard;
 #define KEYCODE_ARROW_LEFT		0x50
 #define KEYCODE_ARROW_DOWN		0x51
 #define KEYCODE_ARROW_UP		0x52
+#define KEYCODE_CAPSLOCK 		0x39
 
 #endif
